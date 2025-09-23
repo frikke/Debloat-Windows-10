@@ -1,6 +1,10 @@
 # Debloat Windows 10
 
-**ATTENTION!**
+🕯️ **End of Life:**
+Windows 10 is officially end of life in October.
+This repository is therefore deprecated.
+
+**Attention:**
 Apparently there is an issue where running the scripts results in a broken user account / system.
 So far, there is only little information what actually causes this.
 See the [corresponding issue](https://github.com/W4RH4WK/Debloat-Windows-10/issues/306).
